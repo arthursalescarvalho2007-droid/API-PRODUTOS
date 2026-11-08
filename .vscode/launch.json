@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Executar API CRUD",
+      "request": "launch",
+      "mainClass": "br.com.exemplo.apicrud.ApiCrudApplication",
+      "projectName": "api-crud-java"
+    }
+  ]
+}
